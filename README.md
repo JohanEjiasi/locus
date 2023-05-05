@@ -1,6 +1,6 @@
 <h1>Locus</h1>
 
-<p>Locus is aapplication designed it to be a one-stop shop to make your next experience at a festival, concert, sporting event, or club show an effortless one.</p>
+<p>Locus is a application designed it to be a one-stop shop to make your next experience at a festival, concert, sporting event, or club show an effortless one.</p>
 <img src="assets/images/project-search.png" alt="initial search home screen">
 <p>Type in an artist, team, city, or venue and you will see the top 10 upcoming events that match your search.</p>
 <img src="assets/images/project-search-results.png" alt="search results">
