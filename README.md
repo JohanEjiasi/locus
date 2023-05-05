@@ -11,7 +11,7 @@
 <p>Now that you've found the right event and planned your day, go to the "Buy Tickets" tab and click on the "Go!" button to purchase tickets through SeatGeek.</p> 
 <img src="assets/images/project-buy-results.png" alt="buy tickets">
 
-<p>Check out the site <a href="https://JohanEjiasi.github.io/locus/" target="_blank">here</a>.
+<p>Check out the site <a href="https://locus001.netlify.app" target="_blank">here</a>.
 
 **Prerequisites:**
 * Project Goal:
